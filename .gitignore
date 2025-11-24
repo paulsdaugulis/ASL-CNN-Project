@@ -1,0 +1,13 @@
+# Ignore Data Files
+ASL_Dataset/
+*.zip
+*.jpg
+*.png
+
+# Ignore Jupyter Checkpoints (Auto-saves)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
